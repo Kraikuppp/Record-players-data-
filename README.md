@@ -1,2 +1,5 @@
-# Record-players-data-
-Record players data from FM2023 it code is just part of python101 course
+#python101
+
+การบ้านEP2 เขียนโปรแกรมบันทึกอะไรก็ได้
+
+ทำโปรแกรมบันทึกค่าพลังของนักเตะโดยอ้างอิงข้อมูลจากเกม FM2023 มา
